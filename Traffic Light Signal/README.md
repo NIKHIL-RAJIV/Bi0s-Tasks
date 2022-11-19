@@ -4,7 +4,7 @@
 ### Note: you should change values in registers DDRx PINx PORTx for GPIO, and should not use pinMode(), digitalRead()/Write() functions in your code You can use tinkercad or wokwi.com as simulation platform 
 ***
 ## Simulation Diagram
-![Simulation Diagram]()
+![Simulation Diagram](https://raw.githubusercontent.com/NIKHIL-RAJIV/Bi0s-Tasks/main/Traffic%20Light%20Signal/Simulation%20Diagram.png)
 ***
 
 ## **CODE**
